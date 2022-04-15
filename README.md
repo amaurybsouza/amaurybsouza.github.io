@@ -1,6 +1,4 @@
-Hi, my name is Amaury! Welcome to my profile. Focused on Infrastructure as Code (IaC), automation and Linux with a hard background in banking. I have more than 8 years of experience in support of mission-critical platforms and technical participation in complex projects. 
-
-My career is based in Ops and following the evolution of technology on the IT market, I adapted my career adhering to the pillars of DevOps and the premise of automation and collaboration.
+Hi, my name is Amaury! I am DevOps Engineer, Lifelong Learner, you can follow me on the web, sometimes I am writing about DevOps on @medium, sometimes talking about Infrastructure as Code around Terraform, GitLab, CI/CD and GitOps. I love DevOps communities, and I have been helping many of them for years now, both as an organizer and Digital Creator. Also, I am enjoy code on GitHub using HCL/YML technologies, check my profile to learn more about how I contribute on open-source projects. Got a project to discuss? Want me to speak at your meetup? Anything else? Let's chat! DM me on Twitter @amaurybsouza_
 
 ## Latest articles
 
